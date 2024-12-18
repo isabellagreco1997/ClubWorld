@@ -1,0 +1,6 @@
+/* Remove the max-width constraint and center alignment */
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
